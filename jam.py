@@ -18,7 +18,7 @@ def local_css(file_name):
 local_css("style/style.css")
 
 lottie_coding = "https://assets5.lottiefiles.com/packages/lf20_fcfjwiyb.json"
-img_contact_form = Image.open("images/yy.jpg")
+img_contact_form = Image.open("images/ff.jpg")
 img_github = Image.open("images/hh.jpg")
 
  
