@@ -57,10 +57,11 @@ with image_column:
     st.image(img_contact_form)
 
 with text_column:
-    st.subheader("DIY BOUQUET")
+    st.subheader("DIY MONEY GARLAND")
     st.write(
         """
-        This bouquet cost 190 pesos, this handly made by me and my companion.
+        The transcendence of currency garlands among numerous 
+        groups displays the creation of new social ties, not only between people, but also between groups.
         """     
         )
     st.markdown("[watch the video...](https://www.facebook.com/permalink.php?story_fbid=pfbid036HpR6GGFDH5ujjsdTswfBvDMnWFti5YoQg9snrzuJNF87ah1F1fKbsgp7qv9Crwkl&id=61554510924778)")
